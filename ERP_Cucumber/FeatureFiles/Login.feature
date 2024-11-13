@@ -76,8 +76,9 @@ Then Validate customer number
 When close browser
 Examples:
 |Customername|Address|City|Country|Contactperson|Phonenumber|Email|mobilenumber|Notes|
-|Ramuandranga13|Kukatpalli51|Ameerpet15|India|QedgeTech1|2456987456|ranga@gmail.com|7896541236|iam new Cuatomer1|
+|Ramuandranga130|Kukatpalli541|Ameerpet15|India|QedgeTech56|2456987456|ranga@gmail.com|7896541236|iam new Cuatomer1|
 |Ramuandranga14|Kukatpalli41|Ameerpet17|India|QedgeTech1|2456987456|ranga@gmail.com|7896541236|iam new Cuatomer1|
+|Ramuandranga14|Kukatpalli41|Ameerpet17|india1|QedgeTech45|245698745667|ranga@gmail.com|7896541236|iam new Cuatomer1|
 
 
 
